@@ -1,3 +1,29 @@
 h1 {
   color: red;
 }
+
+p{
+    color:blue;
+}
+
+li{
+    color:green;
+    list-style-type: "\1F44D"; // thumbs up sign
+}
+
+.special {
+    color: gold;
+    font-weight: bold;
+}
+
+li em {
+    color: rebeccapurple;
+}
+
+h1 + p {
+    font-size : 400%;
+}
+
+p span {
+    color : red
+}
